@@ -1,0 +1,8 @@
+Chapter 1     A Tour of Computer Systems
+  
+  1.1 Information is Bits + Context
+    
+    What is the meaning of 'bit'? Bit is a basic unit of communication in coumputing.One bit can only have two values,0 or 1.And 
+      8 bits is a 'Byte'.
+    All information in a system-including disk files,programs stored in memory,user data stored in memory and data transferres across
+      a network-is represented as a bunch of bits.
